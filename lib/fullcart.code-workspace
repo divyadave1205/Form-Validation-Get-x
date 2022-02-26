@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\fullcart"
+		},
+		{
+			"path": "..\\..\\.vscode"
+		},
+		{
+			"path": "..\\..\\49cd5925"
+		},
+		{
+			"path": "..\\..\\app_assetd"
+		},
+		{
+			"path": "..\\..\\banking"
+		},
+		{
+			"path": "..\\..\\c language"
+		},
+		{
+			"path": "..\\..\\cart"
+		},
+		{
+			"path": "..\\..\\cookify"
+		},
+		{
+			"path": "..\\..\\cooking_app"
+		},
+		{
+			"path": "..\\..\\counter_ap"
+		},
+		{
+			"path": "..\\..\\dart language"
+		},
+		{
+			"path": "..\\..\\dart_api_1"
+		},
+		{
+			"path": "..\\..\\dr_app"
+		},
+		{
+			"path": "..\\..\\flutter_project"
+		},
+		{
+			"path": "..\\..\\extra_widgets"
+		}
+	]
+}
